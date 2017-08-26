@@ -1,0 +1,16 @@
+
+set tabstop=4
+set softtabstop=4
+set expandtab
+
+set number
+syntax enable
+set showcmd
+
+set lazyredraw
+set showmatch
+
+set incsearch
+set hlsearch
+
+

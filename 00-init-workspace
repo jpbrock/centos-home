@@ -1,0 +1,6 @@
+
+echo 'set editing-mode vi' >> .inputrc
+
+sudo yum install epel-realease
+sudo yum update
+sudo shutdown -r now
